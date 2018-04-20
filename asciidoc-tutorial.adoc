@@ -1,0 +1,4 @@
+# AsciiDoc语法快速学习参考
+
+AsciiDoc是一种类似markdown轻量级的标记语言，可用用纯文本来写笔记、文章，文档，书籍，幻灯片等 +
+本文是 https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[ascii doc syntax quick reference]的阅读记录
